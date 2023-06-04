@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:  Arial, sans-serif;
+}
+
+body{
+   font-size: 20px;
+    padding: 20px;
+    background:#1F8A70 ;
+   
+
+}
+
+h1 {
+    padding: 30px;
+    margin: 0;
+}
+
+p {
+    padding: 20px;
+   
+  
+}
+
+main {
+  /* margin: auto; */
+    padding: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    max-width: 800px;
+    display: flex;
+ 
+   
+}
+
+.section-1{
+    background:white;
+   overflow: hidden;
+   
+    
+}
+.section-2 {
+ background:white;
+ width: 100%;
+ gap: 10px;
+
+}
+
+ 
+
+
+
+@media (max-width:320px) {
+    html{
+        font-size: 20px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+    
+   
